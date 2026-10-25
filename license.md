@@ -186,4 +186,4 @@ matches and a separate one for private testing.
 
 ---
 
-*dota-2-companion · Updated 2026-10-24 · Shared under the MIT License*
+*dota-2-companion · Updated 2026-10-25 · Shared under the MIT License*
